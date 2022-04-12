@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 我是阿东👋
 
-<!--
-**Dongshao-CS/Dongshao-CS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 目前在末流211计算机读研
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 我的知乎专栏：
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫  我的邮箱：2636139779@qq.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongshao-CS)](https://github.com/Dongshao-CS/github-readme-stats)
+- ⚡ 喜欢打篮球、健身和看电影
+
+my![Visitor Count](https://profile-counter.glitch.me/Dongshao-CS/count.svg)visitor
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongshao-CS)](https://github.com/Dongshao-CS/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Dongshao-CS)
